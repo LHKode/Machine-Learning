@@ -15,7 +15,7 @@ class DataGenerator(Sequence):
         self.num_images = len(self.np_images)
         
         self.preprocesser = iaa.Sequential([
-            pass
+            
             
             
             
